@@ -33,7 +33,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,js,react,ballerina" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,js,react" />
 </p>
 
 <br/>
