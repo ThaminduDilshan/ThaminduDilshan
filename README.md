@@ -8,16 +8,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thamindu-dilshan-jayawickrama/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@thamindudilshan">
-    <img src="https://cdn.simpleicons.org/medium/ffffff" height="28" />
+    <img src="https://cdn.simpleicons.org/medium/ffffff" height="32" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.researchgate.net/">
-    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="28" />
+    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="32" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="28" />
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="32" />
   </a>
 </p>
 
@@ -48,9 +51,9 @@
 
 ### 🚀 Featured Work
 
-- 🔧 **Thunder** — Contributing to a production-grade identity platform at WSO2
-- 🔍 **[Sinhala Lyrics Search Engine](https://github.com/ThaminduDilshan/Sinhala-Lyrics-Search-Engine)** — Search engine with Sinhala language processing
-- 🧪 **[SSTST](https://github.com/ThaminduDilshan/SSTST)** — Research-focused system exploring anomaly detection techniques
+- 🔧 **[Thunder](https://github.com/asgardeo/thunder)** — Contributing to a production-grade identity platform at WSO2
+- 🔍 **[Sinhala Lyrics Search Engine](https://github.com/ThaminduDilshan/Sinhala-Lyrics-Search-Engine)** — Lyrics search engine with Sinhala language processing
+- 🗣️ **[SSTST](https://github.com/ThaminduDilshan/SSTST)** — Sinhala sign language to speech translator with a backend-powered processing pipeline
 
 ---
 
