@@ -15,12 +15,18 @@
     <img src="https://cdn.simpleicons.org/medium/ffffff" height="32" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/ThaminduDJ">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="32" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.researchgate.net/">
-    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="32" />
+    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="28" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="32" />
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="28" />
   </a>
 </p>
 
@@ -33,13 +39,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,js,react" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,js,react,reactnative,ballerina" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaminduDilshan&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
   <img src="https://streak-stats.demolab.com/?user=ThaminduDilshan&hide_border=true&theme=tokyonight" height="160" />
 </p>
 
